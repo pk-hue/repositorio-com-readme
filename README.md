@@ -61,4 +61,4 @@ Focar na habilidade de escrever códigos limpos e de boa aparência.
 
 ## Autor
 
-- Github - [Pedro Henrique](https://github.com/pk-hue)
+- Github - [Pedro Henrique] (https://github.com/pk-hue)
