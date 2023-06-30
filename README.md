@@ -1,5 +1,5 @@
 # Teste Proto com Readme
- Um projeto de teste com um arquivo readme 🌹
+ Um pronjeto de teste com um arquivo readme 🌹
  <div>
   <a href="https://github.com/devemdobro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devemdobro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
